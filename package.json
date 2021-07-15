@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lmcgough-gc/dummy-node-app/issues"
   },
-  "homepage": "https://github.com/lmcgough-gc/dummy-node-app#readme"
+  "homepage": "https://github.com/lmcgough-gc/dummy-node-app#readme",
+  "dependencies": {
+    "uri-js": "^4.4.1"
+  }
 }
