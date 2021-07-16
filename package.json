@@ -4,6 +4,7 @@
   "description": "Dummy app for CI/CD testing purposes",
   "main": "index.js",
   "scripts": {
+    "build": "echo \"Nothing to build\"",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
