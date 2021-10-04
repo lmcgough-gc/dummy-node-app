@@ -19,7 +19,7 @@ function connectDb(config, cb) {
 				cb(err);
 			}
 			else {
-				console.log("Database connected successfully!", dbConn);
+				console.log("Database connected successfully!");
 				dbConn.destroy();
 				cb(err);
 			}
