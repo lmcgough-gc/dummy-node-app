@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/lmcgough-gc/dummy-node-app#readme",
   "dependencies": {
+    "mysql": "^2.18.1",
     "uri-js": "^4.4.1"
   }
 }
